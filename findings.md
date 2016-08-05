@@ -1,0 +1,34 @@
+---
+layout: page
+title: Key Findings
+---
+
+### What we found
+* Establishing feedback mechanisms required flexibility in the initial design phase, a thorough context analysis, and willingness to adapt mechanisms during implementation.
+* Sensitisation of target beneficiaries to the purpose and process of giving feedback was essential to build confidence and overcome fears about giving feedback.
+* Face-to-face mechanisms were preferred in contexts with lower literacy and high poverty. Technology-enabled mechanisms and suggestion boxes required adaptation to these contexts.
+* Technology-enabled mechanisms were less accessible for women as compared to men
+* The provision of multiple mechanisms aided inclusion of different groups.
+* Responding to feedback required flexibility in project activities and budgets, clear referral pathways and relationships with external stakeholders.
+* Beneficiary feedback supported real-time adaptation of projects to the needs of their target groups and contexts, and accountability of programmes and government service providers.
+* The process of giving feedback empowered beneficiaries and was valued in its own right.
+* Most feedback loops were closed at project level; there was limited use of feedback higher up the aid delivery chain, and feedback did not inform upward accountability to the donor.
+
+### Recommendations
+* At the outset, ask whether there is sufficient time, resources and flexibility to implement a feedback mechanism and respond to feedback once the mechanism is in place
+* Conduct a thorough context analysis before deciding on a particular feedback mechanism, including whether literacy or cost are barriers in marginalised contexts
+* Sensitise beneficiaries to the purpose and process of giving feedback, both at the start of the project and on an ongoing basis, and allow time to build trust in the mechanism
+* Engage with external stakeholders (particularly local government agencies and community leaders) about the feedback mechanism and establish referral protocols
+* Ensure that there is sufficient scope in the programme design to make changes and respond to requests to increase or reallocate resources; negotiate with the donor if necessary
+* Ensure those with ‘first contact’ with beneficiaries (often project staff) understand the purpose of the feedback mechanism and the scope for responding to feedback
+* If feedback is intended to integrate with monitoring systems, give careful consideration to how feedback will be analysed and aggregated and the capacity of staff and systems to do that.
+* Consider the sustainability and exit strategy for a feedback mechanism as part of the initial design phase
+For more information on how to overcome the challenges of implementing some of these recommendations, please check out the practice notes: **TODO Practice Notes**
+
+### Findings from the monitoring and review process
+
+This briefing summarises the key findings from the pilot and is intended to inform organisations and their funders about the development and implementation of feedback mechanisms.
+**TODO: PDF summary report**
+
+Through the course of the pilot, the implementation and results of each of the pilots were monitored and reviewed by local consultants at key points in time. A full end-point synthesis report that brings together findings from all seven projects at the end of the pilot is also available.
+**TODO: PDF end-point report**
