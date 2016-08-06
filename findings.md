@@ -12,7 +12,7 @@ title: Key Findings
 * Responding to feedback required flexibility in project activities and budgets, clear referral pathways and relationships with external stakeholders.
 * Beneficiary feedback supported real-time adaptation of projects to the needs of their target groups and contexts, and accountability of programmes and government service providers.
 * The process of giving feedback empowered beneficiaries and was valued in its own right.
-* Most feedback loops were closed at project level; there was limited use of feedback higher up the aid delivery chain, and feedback did not inform upward accountability to the donor.
+* Most feedback loops were closed at project level, meaning that complaints were resolved and feedback responded to direct to the beneficiary. However, there was limited use of feedback higher up the aid delivery chain, and feedback did not inform upward accountability to the donor.
 
 ### Recommendations
 * At the outset, ask whether there is sufficient time, resources and flexibility to implement a feedback mechanism and respond to feedback once the mechanism is in place

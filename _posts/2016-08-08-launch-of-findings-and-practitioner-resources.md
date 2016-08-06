@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Launch of findings and practitioner resources
+title: Launch of our findings and new practitioner resources
 
 ---
 
-Today we launch findings and practitioner resources from a three year pilot exploring how beneficiary feedback can support development programming.
+Today we launch the findings and practitioner resources from a three-year pilot exploring how beneficiary feedback can support development programming.
 
 Feedback mechanisms such as suggestion boxes, focus group discussions and mobile SMS and voice calls were trialled in seven projects working to improve maternal and child health. The mechanisms were found to support service users to hold projects and government services to account, and support projects to adapt to users’ needs and priorities.
 
