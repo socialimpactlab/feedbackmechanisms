@@ -7,17 +7,14 @@ relative_permalinks: false
 # Setup
 title:               Feedback Mechanisms
 tagline:             ''
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 'http://socialimpactlab.github.io/feedbackmechanisms'
-baseurl:             'http://socialimpactlab.github.io/feedbackmechanisms'
+description:         ''
+url:                 'http://feedbackmechanisms.org'
+baseurl:             'http://feedbackmechanisms.org'
 paginate:            5
 paginate_path:       "/blog/page:num/"
 
 # About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+
 
 # Custom vars
 version:             1.0.0
