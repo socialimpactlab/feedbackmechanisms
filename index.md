@@ -48,6 +48,6 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 ## Contact Us
 If your have any queries or feedback about any of the resources here, we’d love to hear from you. [Get in touch](mailto:hello@simlab.org?subject=feedbackmechanisms.org)!
 
-This project was funded by UK Department for International Development.
+This material has been funded by UK aid from the UK government; however the views expressed do not necessarily reflect the UK government’s official policies.
 
 <img style="margin-left:auto;display:block;margin-right:auto" width="100px" src="{{site.baseurl}}/public/img/dfid.jpg">
