@@ -3,8 +3,6 @@ layout: page
 title: Practitioner Resources
 ---
 
-**TODO image**
-
 ## Practice notes
 The practice notes present practical tips for any organisation setting up beneficiary feedback mechanisms. They are intended to help you navigate the challenges and create a robust and user-friendly system.
 

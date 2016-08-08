@@ -13,6 +13,5 @@ Seven organisations piloted beneficiary feedback mechanisms in maternal and chil
 * [Uttar Pradesh, India]({{site.baseurl}}/pilots/uttarpradesh/) (MAMTA Institute for Mother and Child)
 * [Zimbabwe]({{site.baseurl}}/pilots/zimbabwe/) (Adventist Development and Relief Agency)
 
-**TO DO add links**
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1J0E86X2lv-FUkrrVLEYd0jvKvFM"  width="100%" height="500"> </iframe>

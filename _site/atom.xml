@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Feedback Mechanisms</title>
- <link href="http://socialimpactlab.github.io/feedbackmechanisms/atom.xml" rel="self"/>
- <link href="http://socialimpactlab.github.io/feedbackmechanisms/"/>
- <updated>2016-08-07T23:13:00-04:00</updated>
- <id>http://socialimpactlab.github.io/feedbackmechanisms</id>
+ <link href="http://feedbackmechanisms.org/atom.xml" rel="self"/>
+ <link href="http://feedbackmechanisms.org/"/>
+ <updated>2016-08-07T23:58:11-04:00</updated>
+ <id>http://feedbackmechanisms.org</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name></name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>What is a beneficiary feedback mechanism?</title>
-   <link href="http://socialimpactlab.github.io/feedbackmechanisms/2016/08/09/what-is-a-beneficiary-feedback-mechanism/"/>
+   <link href="http://feedbackmechanisms.org/2016/08/09/what-is-a-beneficiary-feedback-mechanism/"/>
    <updated>2016-08-09T00:00:00-04:00</updated>
-   <id>http://socialimpactlab.github.io/feedbackmechanisms/2016/08/09/what-is-a-beneficiary-feedback-mechanism</id>
+   <id>http://feedbackmechanisms.org/2016/08/09/what-is-a-beneficiary-feedback-mechanism</id>
    <content type="html">&lt;p&gt;Many types of organisation use feedback from users or clients to improve their products and services. Software companies, for example, frequently release new products in ‘beta’, soliciting feedback from a small group of expert users before releasing their products on wider markets. In the international development sector, in spite of efforts to design, monitor and evaluate interventions, there remain many ways in which interventions may fail to address specific needs of their target groups or to fit precisely with their local contexts.&lt;/p&gt;
 
 &lt;p&gt;A beneficiary feedback mechanism is a tool designed to solicit and respond to the views of recipients of aid. By responding to the views of aid recipients, organisations can improve or evaluate their projects and be accountable (or support accountability of third parties such as government) for the implementation.&lt;/p&gt;
@@ -35,9 +35,9 @@
  
  <entry>
    <title>Launch of our findings and new practitioner resources</title>
-   <link href="http://socialimpactlab.github.io/feedbackmechanisms/2016/08/08/launch-of-findings-and-practitioner-resources/"/>
+   <link href="http://feedbackmechanisms.org/2016/08/08/launch-of-findings-and-practitioner-resources/"/>
    <updated>2016-08-08T00:00:00-04:00</updated>
-   <id>http://socialimpactlab.github.io/feedbackmechanisms/2016/08/08/launch-of-findings-and-practitioner-resources</id>
+   <id>http://feedbackmechanisms.org/2016/08/08/launch-of-findings-and-practitioner-resources</id>
    <content type="html">&lt;p&gt;Today we launch the findings and practitioner resources from a three-year pilot exploring how beneficiary feedback can support development programming.&lt;/p&gt;
 
 &lt;p&gt;Feedback mechanisms such as suggestion boxes, focus group discussions and mobile SMS and voice calls were trialled in seven projects working to improve maternal and child health. The mechanisms were found to support service users to hold projects and government services to account, and support projects to adapt to users’ needs and priorities.&lt;/p&gt;

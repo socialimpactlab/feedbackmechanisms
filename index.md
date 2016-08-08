@@ -23,9 +23,26 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 
 
 ## Implementing Consortium
-<div class="s-container">
-**TODO add consortium logos**
-</div>
+
+<div class="grid-items-lines clearfix" style="width:100%; margin:auto">
+  <a href="http://cda.org" class="grid-item">
+    <img style="max-width:100px;" src="{{site.baseurl}}/public/img/logos/consortium/cda.png">
+  </a>
+  <a href="http://intrac.org" class="grid-item">
+<img style="max-width:100px; " src="{{site.baseurl}}/public/img/logos/consortium/intrac.png">
+  </a>
+  <a href="http://www.simlab.org" class="grid-item">
+<img style="max-width:100px;" src="{{site.baseurl}}/public/img/logos/consortium/simlab.png">
+  </a>
+  <a href="http://www.worldvision.org" class="grid-item">
+<img style="max-width:100px" src="{{site.baseurl}}/public/img/logos/consortium/wv.jpg">
+  </a>
+ <div class="right-cover"></div>
+  <div class="bottom-cover"></div>
+</div> 
+
+<p> 
+</p>
 
 
 ## Contact Us
