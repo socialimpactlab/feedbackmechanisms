@@ -34,7 +34,7 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
   <a href="http://www.simlab.org" class="grid-item">
 <img src="{{site.baseurl}}/public/img/logos/consortium/simlab.png">
   </a>
-  <a href="http://www.worldvision.org" class="grid-item">
+  <a href="http://www.worldvision.org.uk" class="grid-item">
 <img src="{{site.baseurl}}/public/img/logos/consortium/wv.jpg">
   </a>
  <div class="right-cover"></div>
