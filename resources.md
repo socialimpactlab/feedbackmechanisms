@@ -19,7 +19,7 @@ The notes cover six areas of implementation:
 
 [Download the practice notes (PDF)](http://cdn.worldvision.org.uk/files/1114/6857/4326/PRACTICE_NOTES_July2016.pdf)
 
-We hope you find them useful and would love to hear your feedback. [Get in touch!](mailto:hello@simlab.org):
+We hope you find them useful and would love to hear your feedback. [Get in touch!](mailto:hello@simlab.org)
 
 ## Mobile technology case study
 
