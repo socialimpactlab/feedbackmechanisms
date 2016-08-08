@@ -4,7 +4,7 @@ title: Somaliland
 ---
 ### Health Poverty Action
 
-![HPA logo]({{site.baseurl}}/public/img/logos/hpa.jpg)
+![HPA logo]({{site.baseurl}}/public/img/logos/partner/hpa.jpg)
 
 [Health Poverty Action](http://www.healthpovertyaction.org) worked to strengthen service provision at 11 maternal child Health facilities, in Maroodi Jex region, Somaliland.
 

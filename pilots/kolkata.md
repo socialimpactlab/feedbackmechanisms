@@ -5,7 +5,7 @@ title: Kolkata, India
 ### Child in Need Institute via Child Hope UK
 
 ![CINI logo]({{site.baseurl}}/public/img/logos/cini.png)
-![Child Hope UK logo]({{site.baseurl}}/public/img/logos/childhope.png)
+![Child Hope UK logo]({{site.baseurl}}/public/img/logos/partner/childhope.png)
 
 [Child in Need Institute](http://www.cini-india.org) is a local NGO supporting children, adolescents and women in disadvantaged areas of India.
 

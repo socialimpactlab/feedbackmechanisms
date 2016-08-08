@@ -5,7 +5,7 @@ title: Pakistan
 
 ### Rahnuma Family Planning Association of Pakistan
 
-![Rahnuma logo]({{site.baseurl}}/public/img/logos/rahnuma.png)
+![Rahnuma logo]({{site.baseurl}}/public/img/logos/partner/rahnuma.png)
 
 [Rahnuma](http://www.fpapak.org) is the Family Planning Association of Pakistan. Rahnuma piloted a beneficiary feedback mechanism in its urban education, health and poverty reduction Project. The project aimed to integrate education, health and income generation services for 14,000 school students, their mothers and families, in Pakistan.
 
