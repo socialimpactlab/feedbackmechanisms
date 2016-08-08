@@ -50,4 +50,4 @@ If your have any queries or feedback about any of the resources here, we’d lov
 
 This project was funded by a grant from the UK Department for International Development.
 
-<img style="margin-left:auto;display:block;margin-right:auto" src="{{site.baseurl}}/public/img/dfid.jpg">
+<img style="margin-left:auto;display:block;margin-right:auto" width="100px" src="{{site.baseurl}}/public/img/dfid.jpg">
