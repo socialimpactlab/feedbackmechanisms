@@ -26,16 +26,16 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 
 <div class="grid-items-lines clearfix" style="width:100%; margin:auto">
   <a href="http://cdacollaborative.org" class="grid-item">
-    <img style="max-width:100px;" src="{{site.baseurl}}/public/img/logos/consortium/cda.png">
+    <img src="{{site.baseurl}}/public/img/logos/consortium/cda.png">
   </a>
   <a href="http://intrac.org" class="grid-item">
-<img style="max-width:100px; " src="{{site.baseurl}}/public/img/logos/consortium/intrac.png">
+<img src="{{site.baseurl}}/public/img/logos/consortium/intrac.png">
   </a>
   <a href="http://www.simlab.org" class="grid-item">
-<img style="max-width:100px;" src="{{site.baseurl}}/public/img/logos/consortium/simlab.png">
+<img src="{{site.baseurl}}/public/img/logos/consortium/simlab.png">
   </a>
   <a href="http://www.worldvision.org" class="grid-item">
-<img style="max-width:100px" src="{{site.baseurl}}/public/img/logos/consortium/wv.jpg">
+<img src="{{site.baseurl}}/public/img/logos/consortium/wv.jpg">
   </a>
  <div class="right-cover"></div>
   <div class="bottom-cover"></div>
@@ -48,6 +48,6 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 ## Contact Us
 If your have any queries or feedback about any of the resources here, we’d love to hear from you. [Get in touch](mailto:hello@simlab.org)!
 
-This project was funded by a grant from the UK Department for International Development.
+This project was funded by UK Department for International Development.
 
 <img style="margin-left:auto;display:block;margin-right:auto" width="100px" src="{{site.baseurl}}/public/img/dfid.jpg">
