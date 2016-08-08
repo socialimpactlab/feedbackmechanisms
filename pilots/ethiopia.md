@@ -5,7 +5,7 @@ title: Ethiopia
 
 ### AMREF Health Africa
 
-![AMREF logo]({{site.baseurl}}/public/img/logos/amref.jpg
+![AMREF logo]({{site.baseurl}}/public/img/logos/amref.jpg)
 
 [AMREF Health Africa](http://www.amrefuk.org) implemented a GPAF project in the South Omo and Segen Area People zones of southern Ethiopia. The project aimed to improve maternal and child health through strengthening the district health system, and specifically by training community and mid-level health workers and raising community awareness.
 
