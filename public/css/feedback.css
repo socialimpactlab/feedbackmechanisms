@@ -1,0 +1,22 @@
+.main-page a {
+    color:#fff;
+    font-size: 2.5rem;
+    font-weight:700;
+   
+}
+
+.main-page {
+    text-align: center;
+    padding-top:200px;
+}
+
+.main-page small{
+    color: #fff;
+}
+
+.smoke {
+    background: rgba(0, 0, 0, 0.25);
+    width:100%;
+    height:calc(100% + 2rem);
+    margin:-1rem 0;
+}
