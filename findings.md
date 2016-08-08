@@ -23,12 +23,10 @@ title: Key Findings
 * Ensure those with ‘first contact’ with beneficiaries (often project staff) understand the purpose of the feedback mechanism and the scope for responding to feedback
 * If feedback is intended to integrate with monitoring systems, give careful consideration to how feedback will be analysed and aggregated and the capacity of staff and systems to do that.
 * Consider the sustainability and exit strategy for a feedback mechanism as part of the initial design phase
-For more information on how to overcome the challenges of implementing some of these recommendations, please check out the practice notes: **TODO Practice Notes**
+For more information on how to overcome the challenges of implementing some of these recommendations, please check out the [practice notes](http://cdn.worldvision.org.uk/files/1114/6857/4326/PRACTICE_NOTES_July2016.pdf).
 
 ### Findings from the monitoring and review process
 
-This briefing summarises the key findings from the pilot and is intended to inform organisations and their funders about the development and implementation of feedback mechanisms.
-**TODO: PDF summary report**
+[This briefing](https://dl.dropboxusercontent.com/u/1933034/BFM%20key%20findings%20summary.pdf) summarises the key findings from the pilot and is intended to inform organisations and their funders about the development and implementation of feedback mechanisms.
 
-Through the course of the pilot, the implementation and results of each of the pilots were monitored and reviewed by local consultants at key points in time. A full end-point synthesis report that brings together findings from all seven projects at the end of the pilot is also available.
-**TODO: PDF end-point report**
+Through the course of the pilot, the implementation and results of each of the pilots were monitored and reviewed by local consultants at key points in time. A full [end-point synthesis report](https://dl.dropboxusercontent.com/u/1933034/BFM%20End-point%20Synthesis%20-%20full%20report.pdf) that brings together findings from all seven projects at the end of the pilot is also available.
