@@ -1,6 +1,6 @@
 ---
 layout: imagedefault
-title: 
+title:
 ---
 
 **TODO Fix Header**
@@ -38,7 +38,6 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 
 
 ##Contact Us
-If your have any queries or feedback about any of the resources here, we’d love to hear from you: <insert contact link>
+If your have any queries or feedback about any of the resources here, we’d love to hear from you. [Get in touch](mailto:hello@simlab.org)!
 
 **TODO add funding**
-
