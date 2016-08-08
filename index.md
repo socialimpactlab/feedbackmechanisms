@@ -25,7 +25,7 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 ## Implementing Consortium
 
 <div class="grid-items-lines clearfix" style="width:100%; margin:auto">
-  <a href="http://cda.org" class="grid-item">
+  <a href="http://cdacollaborative.org" class="grid-item">
     <img style="max-width:100px;" src="{{site.baseurl}}/public/img/logos/consortium/cda.png">
   </a>
   <a href="http://intrac.org" class="grid-item">
