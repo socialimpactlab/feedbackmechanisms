@@ -14,8 +14,6 @@ The pilot generated lessons relevant to those resourcing, designing and implemen
 ·        A summary of key findings and full end point review report – see [key findings]({{site.baseurl}}/findings)
 ·        Practice notes and mobile technology case study – see [practitioner resources]({{site.baseurl}}/resources)
 
-Monitoring and review support was provided by INTRAC UK and consultants in each of the six countries. Development and implementation of mobile-based beneficiary feedback mechanisms was supported by SIMLab, and learning from the pilots was supported by CDA.
-
 ## Video
 Watch this nine-minute film that explains more about the pilots and hear from the people using the feedback mechanisms in India and Somaliland.
 
@@ -27,6 +25,8 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
 <iframe src="https://www.google.com/maps/d/embed?mid=1J0E86X2lv-FUkrrVLEYd0jvKvFM"  width="100%" height="500"> </iframe>
 
 ## Implementing Consortium
+
+Monitoring and review support was provided by INTRAC UK and consultants in each of the six countries. Development and implementation of mobile-based beneficiary feedback mechanisms was supported by SIMLab, and learning from the pilots was supported by CDA.
 
 <div class="grid-items-lines clearfix" style="width:100%; margin:auto">
   <a href="http://cdacollaborative.org" class="grid-item">
