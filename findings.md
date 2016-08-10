@@ -29,4 +29,4 @@ For more information on how to overcome the challenges of implementing some of t
 
 [This briefing]({{site.baseurl}}/public/files/BFM-key-findings-summary.pdf) summarises the key findings from the pilot and is intended to inform organisations and their funders about the development and implementation of feedback mechanisms.
 
-Through the course of the pilot, the implementation and results of each of the pilots were monitored and reviewed by local consultants at key points in time. A full [end-point synthesis report]({{site.baseurl}}/public/files/BFM-key-findings-summary.pdf) that brings together findings from all seven projects at the end of the pilot is also available.
+Through the course of the pilot, the implementation and results of each of the pilots were monitored and reviewed by local consultants at key points in time. A full [end-point synthesis report]({{site.baseurl}}/public/files/BFM End-point Synthesis - full report.pdf) that brings together findings from all seven projects at the end of the pilot is also available.
