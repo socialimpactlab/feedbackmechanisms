@@ -10,6 +10,7 @@ Between 2014 and 2016, the UK Department for International Development supported
 * Is it worth the investment?
 
 The pilot generated lessons relevant to those resourcing, designing and implementing beneficiary feedback in development programmes. Outputs from the pilots include:
+
 * A case study of each country pilot – see the [pilots]({{site.baseurl}}/pilots/)
 * A summary of key findings and full end point review report – see [key findings]({{site.baseurl}}/findings)
 * Practice notes and mobile technology case study – see [practitioner resources]({{site.baseurl}}/resources)
