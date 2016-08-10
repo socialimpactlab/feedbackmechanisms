@@ -9,10 +9,12 @@ Between 2014 and 2016, the UK Department for International Development supported
 * Does it improve accountability to communities and the delivery of projects?
 * Is it worth the investment?
 
-Monitoring and review support was provided by INTRAC UK and consultants in each of the six countries. Development and implementation of mobile-based beneficiary feedback mechanisms was supported by SIMLab, and learning from the pilots was supported by CDA.
+The pilot generated lessons relevant to those resourcing, designing and implementing beneficiary feedback in development programmes. Outputs from the pilots include:
+·        A case study of each country pilot – see the [pilots]({{site.baseurl}}/pilots/)
+·        A summary of key findings and full end point review report – see [key findings](({{site.baseurl}}/findings)
+·        Practice notes and mobile technology case study – see [practitioner resources](({{site.baseurl}}/resources)
 
-## The Pilots
-<iframe src="https://www.google.com/maps/d/embed?mid=1J0E86X2lv-FUkrrVLEYd0jvKvFM"  width="100%" height="500"> </iframe>
+Monitoring and review support was provided by INTRAC UK and consultants in each of the six countries. Development and implementation of mobile-based beneficiary feedback mechanisms was supported by SIMLab, and learning from the pilots was supported by CDA.
 
 ## Video
 Watch this nine-minute film that explains more about the pilots and hear from the people using the feedback mechanisms in India and Somaliland.
@@ -21,6 +23,8 @@ Watch this nine-minute film that explains more about the pilots and hear from th
 
 Short on time? Watch a three-minute version [here](https://www.youtube.com/watch?v=8XrLVpfiWAQ&feature=youtu.be).
 
+## The Pilots
+<iframe src="https://www.google.com/maps/d/embed?mid=1J0E86X2lv-FUkrrVLEYd0jvKvFM"  width="100%" height="500"> </iframe>
 
 ## Implementing Consortium
 
@@ -39,9 +43,9 @@ Short on time? Watch a three-minute version [here](https://www.youtube.com/watch
   </a>
  <div class="right-cover"></div>
   <div class="bottom-cover"></div>
-</div> 
+</div>
 
-<p> 
+<p>
 </p>
 
 
