@@ -14,4 +14,4 @@ Within the project’s target areas, Konso District was selected to pilot benefi
 
 [Read the case study here](http://cdn.worldvision.org.uk/files/9614/6056/3445/Ethiopia1.pdf).
 ![AMREF logo]({{site.baseurl}}/public/img/logos/partner/amref.jpg)
-"text-align: center;" markdown=“1”
+text-align: center;
