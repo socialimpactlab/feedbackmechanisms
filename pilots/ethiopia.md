@@ -6,7 +6,7 @@ title: Ethiopia
 ### AMREF Health Africa
 
 ![alt text]({{site.baseurl}}/public/img/Ethiopia/AMREFvillage.jpg)
-AMREF Feedback meeting led by volunteer
+AMREF feedback meeting led by volunteer
 
 ![AMREF logo]({{site.baseurl}}/public/img/logos/partner/amref.jpg)
 
