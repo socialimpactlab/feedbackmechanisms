@@ -13,4 +13,4 @@ title: Pakistan
 This project targeted students to raise their awareness about nutrition and sexual reproductive and health issues, and to link them into Rahnuma’s clinics and mobile camps. The project also provided micro-credit and skills development to the families of the most vulnerable students.
 
 [Read the case study here.](http://cdn.worldvision.org.uk/files/9614/6056/3517/Pakistan1.pdf)
-<img style="margin:auto" src="{{site.baseurl}}/public/img/logos/partner/rahnuma.png)
+<img style="margin:auto" src="{{site.baseurl}}/public/img/logos/partner/rahnuma.png">
