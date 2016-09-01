@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-<form method="POST" action="http://formspree.io/kelly@simlab.org">
+<form method="POST" action="http://formspree.io/hello@simlab.org">
 
 <label for="email">Your email</label>
 <input id="email" class="u-full-width" type="email" name="_replyto" placeholder="your@email.com">
