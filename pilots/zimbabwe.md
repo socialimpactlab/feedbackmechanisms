@@ -11,5 +11,5 @@ In Zimbabwe, the [Adventist Development and Relief Agency (ADRA)](http://www.adr
 
 It was anticipated that collecting and responding to beneficiary feedback would provide greater insight into community views on service quality and factors that influence the access and use of maternal health and related services to women's health by women of childbearing age.
 
-[Read the case study here.](http://cdn.worldvision.org.uk/files/2414/6056/3718/Zimbabwe1.pdf)
+[Read the case study here.]({{site.baseurl}}//public/files/Zimbabwe1.compressed.pdf)
 <img style="margin:auto" src="{{site.baseurl}}/public/img/logos/partner/adra.jpg">
