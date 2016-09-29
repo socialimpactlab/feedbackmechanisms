@@ -4,18 +4,19 @@ title: Feedback Mechanisms 101
 ---
 
  >"... there's no point hearing all the time good things. Also you need sometimes to hear your weakness... if you never hear your weaknesses then you will continue the weakness, and then you will not reach your goal. Through the BFM project you get time to hear  your weaknesses and then you will own both, and then it will be good for you and then for the beneficiaries.  Both of you will be happy."
+
  &mdash;Farah Mohamad, Programme Manager&mdash;Health Poverty Action, Somaliland
 
 Feedback mechanisms and accountability go hand in hand; feedback mechanisms hold organizations to account. Outside of accountability, there are many benefits associated with feedback mechanisms which organizations should consider when assessing whether or not to invest in feedback mechanisms.
 
-##Top 4 reasons for feedback mechanisms:
+## Top 4 reasons for feedback mechanisms:
 
 -Addressing problems early saves a lot of time and money
 -Transparency increases organizational security
 -Relationships with communities improve
 -Beneficiary empowerment
 
-##Why is accountability important?
+## Why is accountability important?
 
 *Helps to make sure your programme is meeting people's needs and rights
 *People have a very good idea of what they need if we listen to them it helps us to make sure that we are helping to address these needs*
@@ -34,4 +35,4 @@ For more information on how accountability mechanisms from aid organizations con
 *Being transparent through good information provision and having a good community feedback and response system helps us to be open to community perspectives and this helps to reduce unfair acquisitions and build trust*
 
 
-##For accountability FAQs see [here]({{site.baseurl}}/public/files/A2CFAQ.pdf)
+## For accountability FAQs see [here]({{site.baseurl}}/public/files/A2CFAQ.pdf)
