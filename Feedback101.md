@@ -3,8 +3,8 @@ layout: page
 title: Feedback Mechanisms 101
 ---
 
-![pic]({{site.baseurl}}/public/img/CFO)
-*HPA CFO meeting with a beneficiary, Somaliland*
+![pic]({{site.baseurl}}/public/img/CFO.jpg)
+*Health Poverty Action CFO pictured meeting with a beneficiary.Somaliland*
 
  >"... there's no point hearing all the time good things. Also you need sometimes to hear your weakness... if you never hear your weaknesses then you will continue the weakness, and then you will not reach your goal. Through the BFM project you get time to hear  your weaknesses and then you will own both, and then it will be good for you and then for the beneficiaries.  Both of you will be happy."
 
