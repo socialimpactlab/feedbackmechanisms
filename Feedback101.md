@@ -18,8 +18,7 @@ Feedback mechanisms and accountability go hand in hand; feedback mechanisms hold
 
 ## Why is accountability important?
 
-* Helps to make sure your programme is meeting people's needs and rights
-*People have a very good idea of what they need if we listen to them it helps us to make sure that we are helping to address these needs*
+* **Helps to make sure your programme is meeting people's needs and rights.** People have a very good idea of what they need if we listen to them it helps us to make sure that we are helping to address these needs*
 
 * Ensures the most vulnerable are included and benefit from projects
 *Accountability helps to ensure that people are not being left out of projects or programmes, especially the most vulnerable. It can also reduce tensions if the community is involved in determining the selection and entitlement criteria.*
