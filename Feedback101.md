@@ -24,7 +24,7 @@ Feedback mechanisms and accountability go hand in hand; feedback mechanisms hold
 * **Helps to make sure your programme is meeting people's needs and rights.** People have a very good idea of what they need if we listen to them it helps us to make sure that we are helping to address these needs.
 
 * **Ensures the most vulnerable are included and benefit from projects.**
-Accountability helps to ensure that people are not being left out of projects or programmes, especially the most vulnerable. It can also reduce tensions if the community is involved in determining the selection and entitlement criteria.*
+Accountability helps to ensure that people are not being left out of projects or programmes, especially the most vulnerable. It can also reduce tensions if the community is involved in determining the selection and entitlement criteria.
 
 * **Improves an organization’s relationship with communities.**
 Trust and open communication leads to efficiency and better outcomes.
@@ -43,4 +43,4 @@ There is increasing donor interest and funding being directed at accountability 
 Being transparent through good information provision and having a good community feedback and response system helps us to be open to community perspectives and this helps to reduce unfair acquisitions and build trust.
 
 
-## For accountability FAQs see [here]({{site.baseurl}}/public/files/A2CFAQ.pdf)
+## Accountability [FAQs]({{site.baseurl}}/public/files/A2CFAQ.pdf)
