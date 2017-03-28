@@ -30,3 +30,14 @@ For more information on how to overcome the challenges of implementing some of t
 [This briefing]({{site.baseurl}}/public/files/BFM-key-findings-summary.pdf) summarises the key findings from the pilot and is intended to inform organisations and their funders about the development and implementation of feedback mechanisms.
 
 Through the course of the pilot, the implementation and results of each of the pilots were monitored and reviewed by local consultants at key points in time. A full [end-point synthesis report]({{site.baseurl}}/public/files/BFM End-point Synthesis - full report.pdf) that brings together findings from all seven projects at the end of the pilot is also available.
+
+### Where are they now?
+
+In early 2017, World Vision UK, which led the consortium that supported the pilots contacted partners to see what has happened since the pilot programmes finished in 2016 and whether they have been able to sustain the feedback mechanisms in the communities they worked in. There is no doubt by all the organisations interviewed that community feedback helped them in their work and the technical capacity that setting up a feedback system enabled was the lasting legacy of the programme. However, continued funding and assigning staff and resources to ensure that feedback is collected, analysed, referred and acted upon is the greatest issue facing organisations. The findings from the interviews revealed four key enablers for organisations to continue replicating the use of feedback mechanisms. These were:
+
+* attracting flexible funding to support feedback mechanisms;
+* the commitment of the organisation to institutionalise these through core programme and organisational strategy;
+* the ability of champions within the organisations to further the uptake or cause for feedback mechanisms; and
+* the organisations’ established relationships with the community and local government, that enables lasting trust and credibility.
+
+To read more of the findings [end-point synthesis report]({{site.baseurl}}/public/files/findingssummary.pdf)
