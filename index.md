@@ -34,7 +34,7 @@ Monitoring and review support was provided by INTRAC UK and consultants in each 
     <img src="{{site.baseurl}}/public/img/logos/consortium/cda.png">
   </a>
   <a href="http://intrac.org" class="grid-item">
-<img src="{{site.baseurl}}/public/img/logos/consortium/intrac.png">
+<img src="{{site.baseurl}}/public/img/logos/consortium/intrac.jpg">
   </a>
   <a href="http://www.simlab.org" class="grid-item">
 <img src="{{site.baseurl}}/public/img/logos/consortium/simlab.png">
