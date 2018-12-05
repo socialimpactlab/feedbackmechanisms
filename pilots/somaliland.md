@@ -11,5 +11,5 @@ title: Somaliland
 
 The GPAF project targeted enhancing access and the quality of services for internally displaced women.  
 
-[Read the case study here.](http://cdn.worldvision.org.uk/files/5114/6056/3577/Somaliland1.pdf)
+[Read the case study here.]({{site.baseurl}}/public/files/Somaliland.pdf)
 <img style="margin:auto" src="{{site.baseurl}}/public/img/logos/partner/hpa.jpg">
