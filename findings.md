@@ -23,7 +23,7 @@ title: Key Findings
 * Ensure those with ‘first contact’ with beneficiaries (often project staff) understand the purpose of the feedback mechanism and the scope for responding to feedback
 * If feedback is intended to integrate with monitoring systems, give careful consideration to how feedback will be analysed and aggregated and the capacity of staff and systems to do that.
 * Consider the sustainability and exit strategy for a feedback mechanism as part of the initial design phase
-For more information on how to overcome the challenges of implementing some of these recommendations, please check out the [practice notes](http://cdn.worldvision.org.uk/files/1114/6857/4326/PRACTICE_NOTES_July2016.pdf).
+For more information on how to overcome the challenges of implementing some of these recommendations, please check out the [practice notes]({{site.baseurl}}/public/files/PRACTICE_NOTES_July2016.pdf).
 
 ### Findings from the monitoring and review process
 
@@ -40,4 +40,4 @@ In early 2017, World Vision UK, which led the consortium that supported the pilo
 * the ability of champions within the organisations to further the uptake or cause for feedback mechanisms; and
 * the organisations’ established relationships with the community and local government, that enables lasting trust and credibility.
 
-Find the full report [here]({{site.baseurl}}/public/files/Ex-poste interviews.pdf)
+Find the full report [here]({{site.baseurl}}/public/files/Ex-poste interviews.pdf).
